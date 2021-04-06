@@ -1,0 +1,46 @@
+body{
+    background-color: rosybrown;
+}
+h2{
+    color:saddlebrown;   
+    text-align: center;
+}
+.kotak{
+    background-color: khaki;
+    max-width: 800px;
+    min-height: 200px;
+    padding: 7px;
+    margin: 0 auto; 
+    overflow: auto;  
+}
+img{
+    float: right;
+    width:50%;
+}
+.overflow{
+    overflow: auto;
+    border-style: solid;
+    background-color: peachpuff;
+    border-color: teal;
+    border-width: 6px;
+}
+ul{
+    list-style-type: square;
+}
+nav{
+    float: left;
+    background-color: peachpuff;
+    width: 20%;
+    border-style: solid;
+    border-width: 4px;
+    border-color: rgb(173, 30, 5);
+}
+section{
+    margin-left: 20.6%;
+    border-style: solid;
+    border-width: 4px;
+    border-color: rgb(53, 192, 247);
+    background-color: peachpuff;
+    min-height: 100px;
+    padding: 4px;
+}

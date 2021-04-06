@@ -1,0 +1,12 @@
+body{
+    background-color: darksalmon;
+}
+h2{
+    color: maroon;
+    text-align: center;
+    margin-top: 10px;
+}
+#keke{
+    max-width: 800px;
+    margin: 0 auto;
+}

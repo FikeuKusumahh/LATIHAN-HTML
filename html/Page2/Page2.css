@@ -1,0 +1,14 @@
+.none{
+    display: none;
+}
+.hidden{
+    visibility: hidden;
+}
+body{
+    background-color: beige;
+    color: coral;
+}
+h2{
+    color: coral;
+    text-align: center;
+}

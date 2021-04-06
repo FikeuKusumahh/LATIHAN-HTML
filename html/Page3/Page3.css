@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+    color: cornsilk;
+}
+h2{
+    color: darkgoldenrod;
+    text-align: center;
+    margin-top: 10px;
+}
+#keke{
+    width: 800px;
+    margin: 0 auto;
+}
